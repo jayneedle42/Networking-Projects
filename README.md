@@ -1,6 +1,6 @@
 # Networking Projects
 
-In this repository you will find various projects related to Networking like simulate network enviroments with documentation on their implementation. 
+In this repository you will find various projects related to Networking such as simulated network enviroments with documentation on their implementation. 
 
 
 ## Appendix
