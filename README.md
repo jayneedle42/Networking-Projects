@@ -5,6 +5,6 @@ In this repository you will find various projects related to Networking like sim
 
 ## Appendix
 
-user/repo/jayneedle42/NetworkingProjects/CiscoPacketAnalyzerNetwork_Project1.pdf
+[a relative link](CiscoPacketAnalyzerNetwork_Project1.pdf)
 
 /network1.pkt
